@@ -47,6 +47,6 @@ export default {
 <style scoped>
   #app {
     margin-right: 15rem;
-    margin-left: 15rem;   /* Adjust this value to your desired margin */
+    margin-left: 15rem;
   }
 </style>

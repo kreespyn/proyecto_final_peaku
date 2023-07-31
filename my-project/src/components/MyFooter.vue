@@ -63,17 +63,17 @@
   
   <script>
   export default {
-    // Your Vue component details here
+   
   }
   </script>
   
   <style scoped>
 .logo-img {
-  width: 130px;  /* Cambia esto para ajustar el ancho de la imagen */
-  height: 24px;  /* Esto mantiene las proporciones de la imagen */
+  width: 130px;
+  height: 24px;
 }
 
 .my-nav-item a {
-    color: lightslategray !important;  /* or any color you want */
+    color: lightslategray !important;
   }
 </style>

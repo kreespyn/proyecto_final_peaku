@@ -29,11 +29,11 @@
   .carousel-indicators li {
     width: 20px;
     height: 20px;
-    background-color: #ffa500; /* Change to any color you want */
+    background-color: #ffa500;
   }
 
   .carousel-indicators .active {
-    background-color: #ff0000; /* Change to any color you want */
+    background-color: #ff0000;
   }
 </style>
 

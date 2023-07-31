@@ -8,8 +8,6 @@ from pydantic import BaseModel
 
 app = FastAPI()
 
-# Replace 'your_vue_app_origin' with the origin of your Vue.js app
-# If you're running your Vue app on localhost with port 8080, it would be 'http://localhost:8080'
 app.add_middleware(
     CORSMiddleware,
     allow_origins=['http://localhost:8080'],
